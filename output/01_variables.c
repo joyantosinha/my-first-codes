@@ -12,3 +12,5 @@ int main()
     printf("The value of c is %d and value of d is %d\n", c, d );
     return 0;
 }
+
+//hello just checking
